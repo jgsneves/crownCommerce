@@ -1,4 +1,10 @@
 body {
   font-family: 'Open Sans Condensed';
+  font-size: large;
   padding: 20px 60px;
+}
+
+a {
+  text-decoration: nome;
+  color: black;
 }
